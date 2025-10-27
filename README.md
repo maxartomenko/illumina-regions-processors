@@ -1,2 +1,2 @@
-To run the project just run `python main.py <input_file>` in CLI.
+To run the project just run `pip install -r requirements.txt` followed by `python main.py <input_file>` in CLI.
 It will generate CSV and PNG files for stacked and histogram algorithms, so for one run you will have 4 files.
